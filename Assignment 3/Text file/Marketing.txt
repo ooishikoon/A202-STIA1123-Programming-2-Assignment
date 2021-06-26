@@ -1,0 +1,12 @@
+2021  January  Package 3  56  23859.82  Package 1  33  10829.28  
+________
+2021  February  Package 2  46  17493.24  Package 1  23  8749.23  
+________
+2021  March  Package 3  69  38493.29  Package 2  33  15739.35  
+________
+2021  April  Package 1  82  46329.91  Package 2  55  28454.45  
+________
+2021  May  Package 2  63  38495.23  Package 3  45  38472.45  
+________
+2021  June  Package 1  88  58293.35  Package 3  48  43743.98  
+________
