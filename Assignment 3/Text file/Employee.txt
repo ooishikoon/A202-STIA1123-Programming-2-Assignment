@@ -1,0 +1,14 @@
+0001  Jasley Ooi  900824-07-2238  48 Jalan Remia Taman Remia 14000 BM  019-2838492   jasleyooi@hotmail.com  Manager  6500  
+________
+0002  Jason Ng  860520-07-2934  25 Jalan Gemilang Taman Gemilang 14000 BM  011-38493293  jasonng@hotmail.com  Human Resource  3500  
+________
+0003  Kelvin Fong  830425-07-2834  No 5 Jalan 11 Taman Oren Villa 14000 BM  012-57328294  kelvinfong@hotmail.com  Designer  4800  
+________
+0004  Jennifer Ng  850601-07-8345  No 5 Jalan 11 Taman Oren Villa 14000 BM  012-5739843  jenniferng@hotmail.com  Decorator  5000  
+________
+0005  Eric Tan  880618-07-3845  No 11 Jalan Burma 5 Taman Burma  018-2934793   erictan@hotmail.com  Chef  3000  
+________
+0006  Cecilia Khor  880605-07-3823  9 Jalan Machang Bubok Taman Machang Bubok 14020 BM  012-48437495  cecliakhor@hotmail.com  Accountant  5600  
+________
+0007  Wilson Boo  860406-07-3839  91 Taman Kota Permai 14000 BM  018-28483942  wilsonboo@hotmail.com  Driver  2700  
+________
